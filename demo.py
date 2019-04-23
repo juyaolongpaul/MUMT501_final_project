@@ -94,7 +94,7 @@ def evaluate_per_person(person_name, f1_total, accuracy_total, counter, f_result
         # loader = ess.EqloudLoader(filename=r'/mnt/c/Users/test/Documents/Github/pypYIN/MIR-1K/Wavfile/abjones_1_01.wav', sampleRate=44100)
         # audio = loader()
         #filename1 = '/mnt/c/Users/test/Documents/Github/pypYIN/src/testAudioLong.wav'
-        frameSize = 512
+        frameSize = 1024
         hopSize = 16
         frameSize_gt = 640
         hopSize_gt = 320
