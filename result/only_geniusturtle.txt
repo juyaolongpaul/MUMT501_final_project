@@ -1,0 +1,9 @@
+geniusturtle_1_01.wav ID: 1
+accuracy is 0.13274336283185842
+f1 score is: 0.9266155531215773
+----------------------------------------------------
+The overall accuracy for geniusturtle is: 0.13274336283185842 ± 0.0
+The overall f1 for  geniusturtle is: 0.9266155531215773 ± 0.0
+----------------------------------------------------
+overall accuracy is: 0.13274336283185842 ± 0.0
+overall f1 is: 0.9266155531215773 ± 0.0
